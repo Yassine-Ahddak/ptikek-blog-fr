@@ -1,5 +1,0 @@
-# Cheesecake Lab
-
-```bash
-// test
-```

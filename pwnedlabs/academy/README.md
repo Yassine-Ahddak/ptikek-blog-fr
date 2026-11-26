@@ -1,4 +1,2 @@
 # Academy
 
-## Labs Azure
-
