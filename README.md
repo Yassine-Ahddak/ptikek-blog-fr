@@ -44,7 +44,9 @@ ptikek@Mac:~$ ls -la
 
 ## Mes certifications
 
-<div align="left"><figure><img src=".gitbook/assets/image (2).png" alt="" width="188"><figcaption><p>Palo Alto Networks Certified<br>Network Security Administrator</p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/PJPT-badge.png" alt="" width="200"><figcaption><p>Practical Junior Penetration Tester</p></figcaption></figure></div>
+
+<div align="left"><figure><img src=".gitbook/assets/pcnsa_crop.png" alt="" width="188"><figcaption><p>Palo Alto Networks Certified<br>Network Security Administrator</p></figcaption></figure></div>
 
 <div align="left"><figure><img src=".gitbook/assets/image (3).png" alt="" width="150"><figcaption><p>SentinelOne Security<br>Administrator</p></figcaption></figure> <figure><img src=".gitbook/assets/image (5).png" alt="" width="150"><figcaption><p>SentinelOne Incident<br>Responder</p></figcaption></figure> <figure><img src=".gitbook/assets/image (6).png" alt="" width="150"><figcaption><p>SentinelOne Sales Engineer<br>Expert</p></figcaption></figure> <figure><img src=".gitbook/assets/image (7).png" alt="" width="150"><figcaption><p>SentinelOne Sales Engineer<br>Professional</p></figcaption></figure> <figure><img src=".gitbook/assets/image (8).png" alt="" width="150"><figcaption><p>SentinelOne Sales<br>Professional</p></figcaption></figure></div>
 
