@@ -1,5 +1,5 @@
 ---
-description: 'Link : https://app.pwnedlabs.io/cyberranges'
+description: 'Link : https://pwnedlabs.io/cyber-ranges'
 ---
 
 # Cyber Ranges
